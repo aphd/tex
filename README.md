@@ -1,5 +1,5 @@
 # tex
-
+TeX is a typesetting system designed and developed by Donald Knuth in 1978, primarily used for the production of high-quality documents, especially those containing complex mathematical expressions. 
 
 ## Installing IEEEtran
 
