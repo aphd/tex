@@ -11,7 +11,7 @@ https://ctan.org/pkg/ieeetran?lang=en
 Then, unzip the folder and copy everything to the target directory.
 
 ```
-mkdir /usr/local/texlive/2024basic/texmf-dist/tex/latex/ieeeconf/
-cp -r IEEEtran/* /usr/local/texlive/2024basic/texmf-dist/tex/latex/ieeeconf
+sudo mkdir /usr/local/texlive/2024basic/texmf-dist/tex/latex/ieeeconf/
+sudo cp -r IEEEtran/* /usr/local/texlive/2024basic/texmf-dist/tex/latex/ieeeconf
 sudo texhash
 ````
